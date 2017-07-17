@@ -1,0 +1,23 @@
+#randomPage {
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
+
+input {
+  padding-bottom: 6px;
+  padding-top: 3px;
+  margin-bottom: 25px;
+  width: 25%;
+}
+
+body {
+  background-image: url("http://www.radio-circuits.com/images/Gray-plain-website-background.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
+
+h1, h3, p {
+  font-weight: bold;
+  color: black;
+}
